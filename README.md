@@ -80,6 +80,19 @@ We welcome contributions! To contribute, fork the repository, make changes, and 
 
 ## License
 This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
+## Future Enhancements
+
+- **Role-Based Access Control**: Add roles like admin, librarian, and user with specific permissions.
+- **Book Reservation System**: Allow users to reserve books that are currently borrowed by others.
+- **Enhanced Notifications**: Integrate email or SMS notifications for overdue books and reminders.
+- **Mobile App Integration**: Develop a mobile-friendly version or a dedicated app for better user experience.
+- **Cloud Storage**: Move the system to a cloud-based infrastructure for scalability and availability.
+- **Analytics Dashboard**: Provide insights into popular books, user activity, and borrowing trends.
+- **Barcode Scanning**: Enable barcode scanning for faster book management.
+- **Dark Mode Support**: Add a dark mode toggle for better UI/UX.
+- **Multi-Language Support**: Support for multiple languages to cater to diverse users.
+- **Machine Learning Recommendations**: Suggest books to users based on their borrowing history.
+
 
 ### Project Structure
 
