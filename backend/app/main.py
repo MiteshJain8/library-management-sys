@@ -46,6 +46,8 @@ def startup_event():
             crud.create_book(db, book)
     
     # Add initial users
+    # Add initials
+    
     initial_users = [
         schemas.UserCreate(name="User A"),
         schemas.UserCreate(name="User B"),
